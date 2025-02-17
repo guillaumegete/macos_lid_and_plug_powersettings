@@ -6,6 +6,8 @@ It requires SwiftDialog (https://github.com/swiftDialog)
 
 English and French version are provided. Feel free to modify for your own languages.
 
+German version provided by Markus Kachel (https://github.com/allandanton/macos_lid_and_plug_powersettings) 
+
 This script requires root, so the best way to use it is to add it to your Self Service in Jamf Pro to allow the user to run it as they wish. You should scope only to Apple Silicon  MacBook (Air/Pro).
 
 <img width="888" alt="mac_power_settings_1" src="https://github.com/user-attachments/assets/f2fb3a6e-9161-4ac4-a133-0eead98da1bc" />
